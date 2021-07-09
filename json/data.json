@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "release_year": "2007",
+    "image": "https://shawneofthedead.files.wordpress.com/2012/09/movieposter33.jpg?w=640"
+  },
+  {
+    "title": "Lord of the Rings: The Fellowship of the Ring",
+    "release_year": "2001",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.jpg"
+  },
+  {
+    "title": "Mouling Rouge",
+    "release_year": "2001",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJGi4OnEZ8UbqYpN2E9sPq56PpGDLaQTCqIn9g57RhfrfXKq6k"
+  },
+  {
+    "title": "Django Unchained",
+    "release_year": "2012",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51QGNTPW98L._SX342_.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "release_year": "2004",
+    "image": "https://tulleysdriveincinema.co.uk/uploads/events/harry_potter_prision-image(300x450-crop-autorotate).jpg"
+  }
+]
